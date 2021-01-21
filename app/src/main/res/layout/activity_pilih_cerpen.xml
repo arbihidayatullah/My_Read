@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradien2"
+    tools:context=".PilihCerpen">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fabel"
+        android:id="@+id/btn_fabel"
+        android:layout_marginTop="450px"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Legenda"
+        android:id="@+id/btn_legenda"
+        android:layout_below="@+id/btn_fabel"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"/>
+
+    <Button
+        android:id="@+id/btn_pendidikan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pendidikan"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/btn_legenda"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"/>
+
+
+
+</RelativeLayout>

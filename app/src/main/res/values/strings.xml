@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">MyRead</string>
+    <string name="my_read">Baca Yuk !</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Kisah Buaya Yang Serakah</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kisah ini menceritakan tentang kerakusan sang buaya yang sedang kelaparan demi memenuhi hasrat laparnya.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/buayarakus</item>
+    </array>
+
+
+    <string-array name="data_namelegenda">
+        <item>Lutung Kasarung</item>
+
+    </string-array>
+
+    <string-array name="data_descriptionlegenda">
+        <item>Kisah ini menceritakan tentang seorang putri yang dikutuk oleh penyihir karena ia dibenci oleh keluarganya.</item>
+    </string-array>
+
+    <array name="data_photolegenda">
+        <item>@drawable/lutungkasarung</item>
+    </array>
+
+
+    <string-array name="data_namejenaka">
+        <item>Cerita Lucu – Kerbau</item>
+
+    </string-array>
+
+    <string-array name="data_descriptionjenaka">
+        <item>Cerita lucu seorang peternak kerbau. .</item>
+    </string-array>
+
+    <array name="data_photojenaka">
+        <item>@drawable/kerbau</item>
+    </array>
+
+
+    <string-array name="data_namependidikan">
+        <item>Rumah Buku Assyahla</item>
+
+    </string-array>
+
+    <string-array name="data_descriptionpendidikan">
+        <item>Kisah seorang anak perempuan yang mandiri.</item>
+    </string-array>
+
+    <array name="data_photopendidikan">
+        <item>@drawable/rumahbuku</item>
+    </array>
+
+
+    <string-array name="data_nameromance">
+        <item>Ketika Cinta Harus Bersabar</item>
+
+    </string-array>
+
+    <string-array name="data_descriptionromance">
+        <item>Untuk mereka yang menganggap bahwa kecantikan adalah segalanya. Ingat, wanita yang beriman itu lebih baik, dari wanita yang cantik, namun tak beriman.</item>
+    </string-array>
+
+    <array name="data_photoromance">
+        <item>@drawable/ketikacintabersabar</item>
+    </array>
+
+
+    <string-array name="data_namehorror">
+        <item>Hantu Jeruk Purut</item>
+
+    </string-array>
+
+    <string-array name="data_descriptionhorror">
+        <item>"Horror?" tanyaku ketika Mas Denny menawariku menulis novel adaptasi film horror. "Hantu Jeruk Purut?" keningku terasa berdenyut.</item>
+    </string-array>
+
+    <array name="data_photohorror">
+        <item>@drawable/hantujeruk</item>
+    </array>
+
+
+    <string-array name="data_namecomedy">
+        <item>Salah Sangka</item>
+
+    </string-array>
+
+    <string-array name="data_descriptioncomedy">
+        <item>Buku ini berkisah tentang “salah sangka”, banyak kejadian dalam buku ini yang berawalan dari salah pemahaman yang mengakibatkan alur cerita menjadi pecah dan lucu untuk dibaca.</item>
+    </string-array>
+
+    <array name="data_photocomedy">
+        <item>@drawable/salahsangka</item>
+    </array>
+
+
+    <string-array name="data_nameadventure">
+        <item>Sherlock Holmes</item>
+
+    </string-array>
+
+    <string-array name="data_descriptionadventure">
+        <item>Novel ini menceritakan tentang perjalanan hidup stuah Sherlock Holmes yang dimana dia adalah seorang Dokter khusus di angkatan darat.</item>
+    </string-array>
+
+    <array name="data_photoadventure">
+        <item>@drawable/sherlock</item>
+    </array>
+</resources>
